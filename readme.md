@@ -5,7 +5,7 @@ A game of Blackjack I made to brush up on my Javascript.
 
 ## Authors
 
-- [@averycaldell](https://www.github.com/averycaldwell)
+- [@averycaldwell](https://www.github.com/averycaldwell)
 
 
 ## 🚀 About Me
